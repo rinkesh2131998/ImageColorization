@@ -4,5 +4,5 @@
 - Custom Dataset built by taking an youtube video of mario gameplay and extacting frames.
 
 ## Training
-- Run the train script for traing any custom dataset
+- Run the train_script.py for traing any custom dataset
 - Run colorization.py to convert images from grayscale to rgb 
