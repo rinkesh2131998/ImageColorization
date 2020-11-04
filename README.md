@@ -9,7 +9,7 @@
 - Run the `train_script.py` for traing any custom dataset
 - Run `colorization.py` to convert images from grayscale to rgb
 
-<br>
+<br />
 
 # Version 2 (PIX2PIX GAN)
 
@@ -19,15 +19,15 @@
 - The input images for the network should be 256*256 in height and width for the training
 
 `./Gans/trainGan`: Run this script for training the model on the dataset
-`./Gans/imgColor`: Use this script to convert <b>GrayScale to RGB</b> images
+`./Gans/imgColor`: Use this script to convert <strong>GrayScale to RGB</strong> images
 
 ## Generator Model:
-![Genrator]()
+<img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/models/GANmodelImages/genrator.jpg" width="300" height="800"/>
 
 ## Discriminator Model:
-![Discriminator]()
+<img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/models/GANmodelImages/discriminator.jpg" width="300" height="800"/>
 
 ### Converted Image Samples:
 
-#### Original Image /t GrayScale Image /t Gan outPut Image
-![samples]()
+#### 1.Ground Truth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.GrayScale Version &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.Gan Output
+![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/9921af24-6167-46ed-9fe2-de6d7bac240d.png)
