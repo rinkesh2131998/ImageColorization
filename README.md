@@ -12,18 +12,19 @@
 ## CNN Model Architecture:
 <img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/models/encoder.jpeg" width="300" height="800"/>
 
-### Version 2 Converted Image Samples:
+### Comparision of output of both the models
 
 #### 1.Ground Truth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Cnn Output(Version 1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.GAN Output(Version 2)
-- ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/image574.jpg)
-  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test5.png)
-  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img1.jfif)
-- ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/image933.jpg)
-  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test9.png)
-  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img2.jfif)
-- ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/frame1313.jpg)
-  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test14.png)
-  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img0.jfif)
+- <img src ="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/image574.jpg" width="175" />
+  <img src ="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test5.png" width="175" />
+  <img src ="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img1.jfif" width="175" />
+- <img src ="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/image933.jpg" width="175" />
+  <img src ="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test9.png" width="175" />
+  <img src ="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img2.jfif" width="175" />
+- <img src ="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/frame1313.jpg" width="175" />
+  <img src ="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test14.png" width="175" />
+  <img src ="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img0.jfif" width="175" />
+
 
 
 <br />
