@@ -15,11 +15,16 @@
 ### Version 2 Converted Image Samples:
 
 #### 1.Ground Truth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Cnn Output(Version 1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.GAN Output(Version 2)
-- <img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/image574.jpg"><img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test5.png" ><img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img1.jfif" >
-- <img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/image933.jpg"><img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test9.png" >
-<img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img2.jfif" >
-- <img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/frame1313.jpg"><img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test14.png" >
-<img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img0.jfif" >
+- ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/image574.jpg)
+  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test5.png)
+  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img1.jfif)
+- ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/image933.jpg)
+  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test9.png)
+  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img2.jfif)
+- ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/frame1313.jpg)
+  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test14.png)
+  ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/img0.jfif)
+
 
 <br />
 
