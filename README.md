@@ -3,10 +3,10 @@
 ## ImageColorization
 - Implemented the model based on the paper [Colorful Image Colorization](https://arxiv.org/abs/1603.08511)
 - Implemented in Keras
-- Custom Dataset built by taking an youtube video of mario gameplay and extacting frames.
+- Custom Dataset built by taking an youtube video of mario gameplay and extacting frames
 
 ## Training
-- Run the `train_script.py` for traing any custom dataset
+- Run the `train_script.py` for training any custom dataset
 - Run `colorization.py` to convert images from grayscale to rgb
 
 ## CNN Model Architecture:
@@ -48,3 +48,4 @@
 
 #### 1.Ground Truth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.GrayScale Version &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.Gan Output
 ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/9921af24-6167-46ed-9fe2-de6d7bac240d.png)
+
