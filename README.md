@@ -10,7 +10,14 @@
 - Run `colorization.py` to convert images from grayscale to rgb
 
 ## CNN Model Architecture:
-<img src=https://github.com/rinkesh2131998/ImageColorization/blob/master/models/encoder.jpeg" width="300" height="800"/>
+<img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/models/encoder.jpeg" width="300" height="800"/>
+
+### Version 2 Converted Image Samples:
+
+#### 1.Ground Truth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Cnn Output
+- <img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/image574.jpg"><img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test5.png" >
+- <img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/image933.jpg"><img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test9.png" >
+- <img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/inputImages/frame1313.jpg"><img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/output2final/test14.png" >
 
 <br />
 
@@ -30,7 +37,7 @@
 ## Discriminator Model:
 <img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/models/GANmodelImages/discriminator.jpg" width="300" height="800"/>
 
-### Converted Image Samples:
+### Version 2 Converted Image Samples:
 
 #### 1.Ground Truth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.GrayScale Version &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.Gan Output
 ![samples](https://github.com/rinkesh2131998/ImageColorization/blob/master/OutputImages/ganOutputs/9921af24-6167-46ed-9fe2-de6d7bac240d.png)
