@@ -9,6 +9,9 @@
 - Run the `train_script.py` for traing any custom dataset
 - Run `colorization.py` to convert images from grayscale to rgb
 
+## CNN Model Architecture:
+<img src=https://github.com/rinkesh2131998/ImageColorization/blob/master/models/encoder.jpeg" width="300" height="800"/>
+
 <br />
 
 # Version 2 (PIX2PIX GAN)
@@ -18,8 +21,8 @@
 - Using Gan for Image colorization provided better results as compared to `Version 1` of the model
 - The input images for the network should be 256*256 in height and width for the training
 
-`./Gans/trainGan`: Run this script for training the model on the dataset
-`./Gans/imgColor`: Use this script to convert <strong>GrayScale to RGB</strong> images
+- `./Gans/trainGan`: Run this script for training the model on the dataset
+- `./Gans/imgColor`: Use this script to convert <strong>GrayScale to RGB</strong> images
 
 ## Generator Model:
 <img src="https://github.com/rinkesh2131998/ImageColorization/blob/master/models/GANmodelImages/genrator.jpg" width="300" height="800"/>
